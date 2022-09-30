@@ -1,4 +1,5 @@
 touch ez
+vim ez
 chmod 540 ez
 vim .bashrc
 ./ez

@@ -1,3 +1,9 @@
+touch ez
+chmod 540 ez
+vim .bashrc
+./ez
+chmod 540 .bashrc
+
 while true
 do
 	xrandr -o left
